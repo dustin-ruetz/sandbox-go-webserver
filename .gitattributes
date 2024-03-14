@@ -3,3 +3,4 @@
 *.go  text
 *.md  text
 *.mod text
+*.sh  text
