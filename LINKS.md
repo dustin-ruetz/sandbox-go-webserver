@@ -1,0 +1,10 @@
+- https://www.youtube.com/watch?v=H7tbjKFSg58
+  - The standard library now has all you need for advanced routing in Go.
+  - Path parameters, HTTP methods, middleware, etc.
+- https://pkg.go.dev/net/http@go1.22.1#Get
+  - Examples of object syntax? Do a Cmd+F for `url.Values`
+- https://go.dev/doc/tutorial/fuzz#unit_test
+- https://go.dev/doc/code
+  - Section on Testing
+- https://medium.com/@xoen/go-testing-technique-testing-json-http-requests-76d9ce0e11f
+  - Mentions the `go-simplejson` package.
